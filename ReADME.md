@@ -57,8 +57,8 @@ The agent produces:
 - Checklist
 - Possible gaps
 - Precautions
-- ## Simple Architecture
-  ```text
+
+## Simple Architecture
 
 Assignment Brief
        |
@@ -78,15 +78,7 @@ Goal + Requirements + Steps + Checklist
 Student Action Plan
 
 
-
-
-
-# Step 10: Add your V2 evaluation
-
-This is important.
-
-You already tested your agent with your **FL-07 Assignment Brief.docx**.
-
+### Step 10: Add your V2 evaluation
 
 
 ## V2 Evaluation
@@ -125,4 +117,4 @@ If information is unclear or missing, the agent should identify the uncertainty 
 
 The live demonstration video is available here:
 
-[YouTube Demo Video](VIDEO-LINK-WILL-BE-ADDED-HERE)
+https://drive.google.com/file/d/1BooROns_VIJVwNnYqITZDkz1VkpoYju_/view?usp=sharing
