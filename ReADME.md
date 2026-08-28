@@ -58,8 +58,8 @@ The agent produces:
 - Possible gaps
 - Precautions
 - ## Simple Architecture
+  ```text
 
-```text
 Assignment Brief
        |
        v
@@ -77,9 +77,8 @@ Goal + Requirements + Steps + Checklist
        v
 Student Action Plan
 
-That's your architecture sketch. ✅
 
----
+
 
 
 # Step 10: Add your V2 evaluation
@@ -88,9 +87,8 @@ This is important.
 
 You already tested your agent with your **FL-07 Assignment Brief.docx**.
 
-Paste:
 
-```markdown
+
 ## V2 Evaluation
 
 For the v2 test, I uploaded the FL-07 Assignment Brief document to the Personal Academic Assistant.
